@@ -13,7 +13,7 @@ import pe.com.belatrix.messabel.exercise.util.ValidatorMessage;
 
 public class JobLoggerReload {
 
-	// Tipos de mensaje 
+	// Tipos de mensaje
 	private static boolean B_TO_FILE;
 	private static boolean B_TO_CONSOLE;
 	private static boolean B_TO_DATABASE;
